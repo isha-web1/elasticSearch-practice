@@ -17,7 +17,7 @@ es-demo/
         └── main.tsx
 ```
 
-![ES demo screenshot](assets/demo.svg)
+![ES demo screenshot](frontend/src/assets/Demo.png)
 
 ## 1. Start Elasticsearch
 
