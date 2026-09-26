@@ -16,6 +16,7 @@ es-demo/
         ├── App.tsx        # search UI
         └── main.tsx
 ```
+![ES demo screenshot](assets/demo.png)
 
 ## 1. Start Elasticsearch
 
